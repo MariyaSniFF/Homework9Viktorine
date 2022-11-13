@@ -1,0 +1,15 @@
+D:\GeekBrainsWork\Homework9\Victorin\bin\Debug\net6.0\Victorin.exe
+D:\GeekBrainsWork\Homework9\Victorin\bin\Debug\net6.0\Victorin.deps.json
+D:\GeekBrainsWork\Homework9\Victorin\bin\Debug\net6.0\Victorin.runtimeconfig.json
+D:\GeekBrainsWork\Homework9\Victorin\bin\Debug\net6.0\Victorin.dll
+D:\GeekBrainsWork\Homework9\Victorin\bin\Debug\net6.0\Victorin.pdb
+D:\GeekBrainsWork\Homework9\Victorin\obj\Debug\net6.0\Victorin.csproj.AssemblyReference.cache
+D:\GeekBrainsWork\Homework9\Victorin\obj\Debug\net6.0\Victorin.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrainsWork\Homework9\Victorin\obj\Debug\net6.0\Victorin.AssemblyInfoInputs.cache
+D:\GeekBrainsWork\Homework9\Victorin\obj\Debug\net6.0\Victorin.AssemblyInfo.cs
+D:\GeekBrainsWork\Homework9\Victorin\obj\Debug\net6.0\Victorin.csproj.CoreCompileInputs.cache
+D:\GeekBrainsWork\Homework9\Victorin\obj\Debug\net6.0\Victorin.dll
+D:\GeekBrainsWork\Homework9\Victorin\obj\Debug\net6.0\refint\Victorin.dll
+D:\GeekBrainsWork\Homework9\Victorin\obj\Debug\net6.0\Victorin.pdb
+D:\GeekBrainsWork\Homework9\Victorin\obj\Debug\net6.0\Victorin.genruntimeconfig.cache
+D:\GeekBrainsWork\Homework9\Victorin\obj\Debug\net6.0\ref\Victorin.dll
